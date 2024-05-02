@@ -1,6 +1,6 @@
 # AtliQ-Grands-Hotel-Business-Analysis
-# AtliQ Grands Data Analytics Initiative
-## Leveraging Data for Informed Decision Making
+## AtliQ Grands Data Analytics Initiative
+### Leveraging Data for Informed Decision Making
 
 AtliQ Grands, operating hotels in Delhi, Mumbai, Bangalore, and Hyderabad for over 20 years, faces significant challenges in revenue loss and market share erosion due to fierce competition. To address these challenges, they've decided to onboard a data analytics team to make data-informed decisions.
 
